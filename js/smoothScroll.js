@@ -1,4 +1,4 @@
-const linksHead = document.querySelectorAll('.meni-list__link');
+const linksHead = document.querySelectorAll('.menu-list__link');
 const mainScroll = document.querySelector('.main__scroll');
 const newArray = [...linksHead, mainScroll]; // спред оператор 
 

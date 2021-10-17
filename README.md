@@ -6,6 +6,7 @@
 + Переключение табов и смена содержимого
 + Модальное окно
 + Бургер-меню в мобильной версии
++ Отправка данных на сервер (fetch)
 
 ## Используемые технологии
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=html)

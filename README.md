@@ -1,5 +1,8 @@
 # Одностраничный сайт для автосалон на примере Mersede-Benz A 200
 
+На сайте реализовано:
++ Аккордион 
+
 ## Используемые технологии
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=html)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
